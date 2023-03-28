@@ -2,7 +2,7 @@
 
 - 🌱 Eu estudo Engenharia de Software no Inatel
 - ⚡ Sempre programando (ou quase isso)
-- 😄 Pronouns: ela/dela
+- 🔭 No momento aprendendo web
 
 <div align="center">
   <a href="https://github.com/coelhalice">
