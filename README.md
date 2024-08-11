@@ -2,7 +2,7 @@
 
 - 🌱 Eu estudo Engenharia de Software no Inatel
 - ⚡ Sempre programando (ou quase isso)
-- 🔭 No momento aprendendo web
+- 🔭 Aprendendo cada vez mais sobre cibersegurança
 
   ##
  
