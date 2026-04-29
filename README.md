@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Alice :)
 
-- 🌱 Eu estudo Engenharia de Software no Inatel
+- 🌱 Estudei Engenharia de Software no Inatel
 - ⚡ Sempre programando (ou quase isso)
 - 🔭 Aprendendo cada vez mais sobre cibersegurança
 
